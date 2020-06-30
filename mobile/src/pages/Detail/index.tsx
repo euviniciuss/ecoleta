@@ -5,7 +5,7 @@ import { View, StyleSheet, Text, Image, TouchableOpacity, SafeAreaView } from 'r
 import Constants from 'expo-constants';
 import { RectButton } from 'react-native-gesture-handler';
 
-//1:22
+//1:23
 const Detail = () => {
     const navigation = useNavigation();
 
