@@ -34,7 +34,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 1. Faça o clone do repositório :
 
 ```sh
-  $ git clone https://github.com/vitorserrano/ecoleta.git
+  $ git clone https://github.com/dev-viniciuss/ecoleta.git
 ```
 
 2. Executando a Aplicação:
